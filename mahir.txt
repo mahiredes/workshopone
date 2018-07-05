@@ -1,4 +1,0 @@
-1- ilk satir (master)
-2- ikinci satir by branch
-3- sbranche eklendi.
-4 - updated by master branch
